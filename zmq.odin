@@ -1,7 +1,7 @@
 package zmq;
 
 /*
-    ZeroMQ bindings for Odin using czmq
+    ZeroMQ bindings for Odin using libzmq
 */
 
 import "core:c"
